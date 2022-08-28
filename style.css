@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #000;
+    align-items: center;
+    height: 600px;
+}
+
+
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.div1 {
+    border: solid 6px #00FFFF;
+}
+
+img {
+    width: 280px;
+    border-radius: 50%;
+}
+
+.div2 { 
+    border: solid 6px #7CFC00;
+    margin: 0px 50px 0px 50px;
+}
+
+.div3 {
+    border: solid 6px #FA8072;
+}
